@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salgado
-- 👀 I’m interested in Elasticsearch, ELK, Computer Visoon, Robotics, IoT, Teaching.
+- 👀 I’m interested in Elasticsearch, ELK, Computer Vision, Robotics, IoT, Teaching.
 - 🌱 I’m currently learning how to integrate Elastic Stack with IoT devices
 - 💞️ I’m looking to collaborate on IIoT projects
 - 📫 How to reach me? 
