@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @salgado
-- 👀 I’m interested in Elasticsearch, ELK, Computer Vision, Robotics, IoT, Teaching.
-- 🌱 I’m currently learning how to integrate Elastic Stack with IoT devices
-- 💞️ I’m looking to collaborate on IIoT projects
+- I'm Developer Advocate at Elastic with over 20 years in software development, project management, and education
+- Currently pursuing a PhD in Computer Vision at Universidade Federal Fluminense, focusing on creating a perception system for visual navigation in autonomous robotic boats
+- Passionate about bridging academia and industry through talks, blogs, and events on vector search, IoT, and observability.
+
 - 📫 How to reach me? 
 { 
 "insta"     : "https://www.instagram.com/alexsalgadoprof/",
