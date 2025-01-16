@@ -6,7 +6,7 @@
 - 📫 How to reach me? 
 { 
 "insta"     : "https://www.instagram.com/alexsalgadoprof/",
-"twitter"   : "[salgadoalex](https://twitter.com/alexsalgadoprof)",
+"twitter"   : "[alexsalgadoprof](https://twitter.com/alexsalgadoprof)",
 "linkedin"  : "https://www.linkedin.com/in/alex-salgado/"  
 }
 
